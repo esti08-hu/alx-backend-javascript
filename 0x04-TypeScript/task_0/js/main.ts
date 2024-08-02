@@ -5,14 +5,14 @@ export interface Student {
   location: string;
 }
 const studentA: Student = {
-  firstName: "Harry",
-  lastName: "Yoon",
+  firstName: "Joi",
+  lastName: "Deo",
   age: 22,
-  location: "Seoul, South Korea",
+  location: "New York, USA",
 };
 const studentB: Student = {
-  firstName: "Anjali",
-  lastName: "Prajapati",
+  firstName: "Jhon",
+  lastName: "Kevin",
   age: 22,
   location: "Lodz, Poland",
 };
